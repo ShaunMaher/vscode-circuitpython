@@ -20,3 +20,5 @@ build
 .yarn
 yarn-error.log
 package
+.devcontainer/
+.aider*
